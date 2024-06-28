@@ -1,3 +1,4 @@
+# Script para testar se tkinter está funcionando
 import tkinter as tk
 
 root = tk.Tk()
