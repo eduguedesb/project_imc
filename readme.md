@@ -1,0 +1,1 @@
+Projeto de estudo para calcular o índice de massa corporal desenvolvido em python.
