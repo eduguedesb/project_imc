@@ -8,3 +8,5 @@ label = tk.Label(root, text="Tkinter está funcionando!")
 label.pack()
 
 root.mainloop()
+
+# Projeto de estudo!
